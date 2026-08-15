@@ -1,5 +1,5 @@
 ![alt text](https://cdn.freebiesupply.com/logos/large/2x/udacity-2-logo-png-transparent.png)
-# Welcome to Udacity Image Api Processing
+# Welcome to Udacity Image Processing API
 
 #####  **Udacity** Image api Processing is back-end application that allows you to resize  the  picture by providing the `name` of the image  and the `width` and `height`
 
