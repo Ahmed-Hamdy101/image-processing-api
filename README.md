@@ -11,7 +11,7 @@
 -  ##### [fs-extra](https://www.npmjs.com/package/fs-extra/)
 -  ##### [Node js -> filexistSysnc](https://nodejs.org/api/fs.html#fsexistssyncpath)
 -  ##### [Node js -> process.cwd](https://nodejs.org/api/process.html#processcwd)
- #### endpoint1:
+ #### endpoint 1:
  |              endpoint1                   |         Description              |
  |                 ---                      |            ---                   |
  | size/?filename=fjord&width=200&height=600| set filename and width and height|
@@ -23,10 +23,10 @@
  }
  ```
  
-  #### endpoint2:
+  #### endpoint 2:
  |              endpoin2                     |         Description               |
  |                 ---                      |            ---                     |
- |       size/?filename= &width= &height=""  | missing query-paramaters-value    |
+ |       size/?filename= &width= &height=""  | missing query-parameters-value    |
  |                                         |                                  |
  size/?filename=fjord123&width=200&height=600|   invalid name check from name    |
  |                                       |                                 |
